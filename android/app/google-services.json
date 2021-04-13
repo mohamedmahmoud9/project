@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "970819443770",
+    "project_id": "journey-f3fd2",
+    "storage_bucket": "journey-f3fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970819443770:android:f7d15898da9264a04b2903",
+        "android_client_info": {
+          "package_name": "com.journey.app.journey_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970819443770-2gpudqqflof1e3c1cj5p9k4mspthmkg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBthfQOfYEo-UDTQD3SHodCEknN53P0RAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970819443770-2gpudqqflof1e3c1cj5p9k4mspthmkg5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970819443770-dp28ng2fotiou3d5vrkb95fova4golgo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.journey.app.journeyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
